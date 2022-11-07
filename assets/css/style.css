@@ -6,8 +6,6 @@
     background: #FFFFFF;
 }
 
-
-
 /* header start*/
 .header{
     display: flex;
@@ -916,7 +914,7 @@
     width: 82px;
     height: 23px;
     text-decoration: none;
-    font-family: sans-serif';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -1238,23 +1236,12 @@ height: 479px;
     flex-grow: 0;
 }
 
-<<<<<<< HEAD
 .price_board_1 {
     box-sizing: border-box;
-
-=======
-/* work management finish */
-
-
-/*Work together start */
-
-.worktogether {
->>>>>>> dbb27bfaa4fad583cf749f2fe6ef98e2df7dea97
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-<<<<<<< HEAD
     padding: 40px 44px;
     gap: 25px;
     
@@ -1665,7 +1652,7 @@ height: 479px;
     width: 384.33px;
     height: 23px;
     
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -1818,7 +1805,7 @@ height: 479px;
     width: 91px;
     height: 23px;
     
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -2265,7 +2252,7 @@ height: 479px;
     width: 798px;
     height: 60px;
     
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
@@ -2304,7 +2291,7 @@ height: 479px;
     width: 90px;
     height: 23px;
     
-    font-family: 'Inter';
+    font-family: sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 18px;
@@ -2318,28 +2305,10 @@ height: 479px;
     order: 0;
     flex-grow: 0;
 }
-=======
-    padding: 140px 220px;
-    gap: 100px;
-
-    position: absolute;
-    height: 1588px;
-    left: 0px;
-    right: 0px;
-    top: 1235px;
-    float: right;
-};
-
-
-
-
-/*work together finish*/
->>>>>>> dbb27bfaa4fad583cf749f2fe6ef98e2df7dea97
-
 /*apps finish*/
 
 /*testimonial start*/
-.testimonial {
+.testimoniale {
     display: flex;
     flex-direction: column;
     justify-content: center;
