@@ -1,0 +1,62 @@
+.landing_page{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 140px 220px;
+isolation: isolate;
+
+position: absolute;
+height: 829px;
+left: 0px;
+right: 0px;
+top: 92px;
+
+background: #FFFFFF;
+}
+
+.footer{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 140px 220px 32px;
+gap: 200px;
+
+position: absolute;
+height: 474px;
+left: 0px;
+right: 0px;
+top: 8105.93px;
+
+background: #043873;
+}
+
+.header{
+    display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 16px 220px;
+
+position: absolute;
+height: 92px;
+left: 0px;
+right: 0px;
+top: 0px;
+
+}
+
+.work_management{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 140px 220px;
+gap: 100px;
+
+position: absolute;
+height: 1588px;
+left: 0px;
+right: 0px;
+top: 921px;
+}
