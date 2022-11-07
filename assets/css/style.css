@@ -1238,13 +1238,23 @@ height: 479px;
     flex-grow: 0;
 }
 
+<<<<<<< HEAD
 .price_board_1 {
     box-sizing: border-box;
 
+=======
+/* work management finish */
+
+
+/*Work together start */
+
+.worktogether {
+>>>>>>> dbb27bfaa4fad583cf749f2fe6ef98e2df7dea97
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
+<<<<<<< HEAD
     padding: 40px 44px;
     gap: 25px;
     
@@ -2308,6 +2318,23 @@ height: 479px;
     order: 0;
     flex-grow: 0;
 }
+=======
+    padding: 140px 220px;
+    gap: 100px;
+
+    position: absolute;
+    height: 1588px;
+    left: 0px;
+    right: 0px;
+    top: 1235px;
+    float: right;
+};
+
+
+
+
+/*work together finish*/
+>>>>>>> dbb27bfaa4fad583cf749f2fe6ef98e2df7dea97
 
 /*apps finish*/
 
